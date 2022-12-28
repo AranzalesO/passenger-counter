@@ -43,6 +43,10 @@ button {
     border-radius: 5px;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 .buttons {
     margin-bottom: 15px;
     width: 100%;
